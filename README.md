@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/119719784/219843612-f8cb7ef2-0b01-421a
 
 - This project is given me as Internship Task.
 - It took me about **8 hours** to complete this project.
-- I have started coding this project on 15-01-2023 at 10am and finished on 18-01-2023 at 10am.
+- I have started coding this project on 15-02-2023 at 10am and finished on 18-02-2023 at 10am.
 
 ## 📌 What I Learn
 
